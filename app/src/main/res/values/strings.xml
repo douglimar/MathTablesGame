@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">MathTablesGame</string>
+    <string name="instructions">Digite o resultado do Cálculo no campo abaixo e clique no botão Confirmar</string>
+    <string name="btnConfirmar">Confirmar</string>
+</resources>
